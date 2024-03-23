@@ -1,0 +1,25 @@
+{
+  "name": "ai-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vk-io/hear": "^1.1.1",
+    "@vk-io/scenes": "^1.2.1",
+    "@vk-io/session": "^2.2.1",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.1",
+    "node-vk-bot-api": "^3.5.0",
+    "nodemon": "^3.1.0",
+    "openai": "^4.29.2",
+    "vk-io": "^4.9.1"
+  }
+}
