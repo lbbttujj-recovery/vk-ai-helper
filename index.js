@@ -6,7 +6,7 @@ const gpt = require('./gptAPI')
 
 
 const vk = new VK({
-    token: process.env.TOKEN
+    token: "vk1.a.fe0QA8kyhEb1e1BOmnV4GuggXLmxbbr__U3W-FgrcDxCojqcS3jbkYbtaaT3Vpy0CE0d3ZpT2eCHRToRaKKgyTvURPSN--MqPVrBcAh5clZVA_ot7r_W6Bj0O_i1xCamCOa8TwKe_PIvyAwhjwicjSVEoHxAEZwIXAJ8Ly3CbEXxshkJw5UqF0ZZ6gK5uhVpCwmymPZcgVfzgm9ntbfl3w"
 });
 
 let isTalkMode = false
